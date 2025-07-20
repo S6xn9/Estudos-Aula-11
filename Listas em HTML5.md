@@ -1,6 +1,10 @@
 
 # Anotações de Estudo: Listas em HTML5
 
+📅 Criado em: **20 de julho de 2025**  
+📚 Matéria:**Programação Web (HTML5 e CSS3)**  
+✍️ Autor: **Marco**
+
 ## 1. Introdução: Organizando Conteúdo com Listas
 
 Listas são fundamentais em HTML para estruturar informações de forma clara e acessível. Elas melhoram a semântica, a acessibilidade e facilitam a leitura. Em HTML5, temos principalmente três tipos de listas:
